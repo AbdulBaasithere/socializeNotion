@@ -1,0 +1,7 @@
+socializenotion-backend/venv/
+socializenotion-frontend/node_modules/
+socializenotion-backend/__pycache__/
+socializenotion-frontend/dist/
+socializenotion-backend/src/database/app.db
+
+
